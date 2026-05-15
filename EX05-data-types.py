@@ -7,8 +7,8 @@ print(type(d))
 print(d .__sizeof__())
 #integer
 print('<<< integer >>>')
-a = 123456789
-#a = 12345678912345789
+#a = 123456789
+a = 12345678912345789123456789
 print(a)
 type(a)
 print(type(a))
@@ -22,7 +22,7 @@ print(type(b))
 print(b .__sizeof__())
 #string
 print('<<< string >>>')
-c = 'Hydroinformatik'
+c = 'Hydroinformatik - Hydroinformatik - 2026'
 print(c)
 type(c)
 print(type(c))

@@ -17,5 +17,8 @@ class Student:
 Suse = Student("Suse", 192837465)
 Suse.print()
 
-Max = Student("Max", 987654321)
-Max.print()
+Kevin = Student("Kevin", 987654321)
+Kevin.print()
+
+Alan = Student("Alan", 987654321)
+Alan.print()
