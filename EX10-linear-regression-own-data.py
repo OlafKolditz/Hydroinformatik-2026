@@ -7,7 +7,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import pandas as pd
 
 # 1. import data
-data = pd.read_csv('shanghai-precipitation-2025.csv')
+data = pd.read_csv('dresden-precipitation-2025.csv')
 X = data[['DayNumber']].values  # shape (n_samples, 1)
 y = data['Precipitation_mm'].values
 
